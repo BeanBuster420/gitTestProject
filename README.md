@@ -1,1 +1,1 @@
-Dummy repository for Git(Hub) tutorial
+Dummy repository for Git(Hub) tutorial.
